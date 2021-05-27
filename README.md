@@ -1,2 +1,3 @@
 # LKM_examples
-Linux kernelmodules example
+Simple hello world Linux kernel module.
+Instructions in LKM_Hello_world.c
