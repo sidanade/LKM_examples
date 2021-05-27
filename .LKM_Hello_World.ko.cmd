@@ -1,1 +1,0 @@
-cmd_/home/ign/Desktop/Kernel_git/LKM_examples/LKM_Hello_World.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/ign/Desktop/Kernel_git/LKM_examples/LKM_Hello_World.ko /home/ign/Desktop/Kernel_git/LKM_examples/LKM_Hello_World.o /home/ign/Desktop/Kernel_git/LKM_examples/LKM_Hello_World.mod.o;  true

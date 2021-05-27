@@ -1,1 +1,0 @@
-cmd_/home/ign/Desktop/Kernel_git/LKM_examples/LKM_Hello_World.mod := { echo  /home/ign/Desktop/Kernel_git/LKM_examples/LKM_Hello_World.o; echo; } > /home/ign/Desktop/Kernel_git/LKM_examples/LKM_Hello_World.mod
