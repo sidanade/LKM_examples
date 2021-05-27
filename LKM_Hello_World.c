@@ -8,13 +8,13 @@ MODULE_DESCRIPTION("kernel module hello world.");
 MODULE_VERSION("0.01");
 
 /*
-Simple kernel program
+
+	******Simple kernel program******
 
 run the make file    -> $ make
 to insert the module -> $ sudo insmod LKM_Hello_Word.ko
 to see the message   -> $ dmesg | tail -5
 to remove the module -> $ sudo rmmod LKM_Hello_Word
-
 
 
 */
